@@ -146,7 +146,7 @@ Enter the following command in your terminal:
 
       .. code-block:: bash
 
-        ros2 pkg create --build-type ament_cmake --node-name my_node my_package
+        ros2 pkg create --build-type ament_cmake --cpp-node-name my_node my_package
 
    .. group-tab:: Python
 
